@@ -2,5 +2,6 @@
 void main()
 {
  printf("WEL-COME TO GIT.....");
+ printf("Thank You!!");
 }
 
