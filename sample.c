@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main()
 {
- printf("WEL_COME TO GIT.....");
+ printf("WEL-COME TO GIT.....");
 }
 
