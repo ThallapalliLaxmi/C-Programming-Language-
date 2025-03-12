@@ -1,3 +1,4 @@
+/* Read sample Array */
 #include<stdio.h>
 void main()
 {
